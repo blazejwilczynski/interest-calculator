@@ -1,6 +1,6 @@
 # React + Vite + TailwindCSS
 
-Tutorial by Smoljames. I really admire him and his attitude to teaching. Greetz! 
+Tutorial by Smoljames. I really admire him and his attitude to teaching.  
 
 – [Smoljames channel] (https://www.youtube.com/@Smoljames)
 

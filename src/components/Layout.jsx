@@ -8,7 +8,7 @@ export default function Layout(props) {
         <h1>Compund Interest Calculator</h1>
       </header>
       {children}
-      <footer></footer>
+      <footer>Footer</footer>
     </div>
   );
 }

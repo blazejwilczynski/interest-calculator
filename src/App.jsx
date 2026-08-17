@@ -1,12 +1,19 @@
 import Layout from "./components/Layout";
+import NumericInput from "./components/NumericInput";
+import SliderInput from "./components/SliderInput";
+import CalculateButton from "./components/CalculateButton";
+import CalculatedAmounts from "./components/CalculatedAmounts";
 
 function App() {
   return (
     <Layout>
-      <>
-        <h1 className="text-pink-400">Test</h1>
-        <h2>Test2</h2>
-      </>
+      <p>This is a little blurb</p>
+      <NumericInput />
+      <NumericInput />
+      <NumericInput />
+      <SliderInput />
+      <CalculateButton />
+      <CalculatedAmounts />
     </Layout>
   );
 }
